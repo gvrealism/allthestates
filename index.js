@@ -45,7 +45,7 @@ module.exports = [
   'Tennessee, USA',
   'Texas, USA',
   'Utah, USA',
-  'Virgina, USA',
+  'Virginia, USA',
   'Vermont, USA',
   'Washington, USA',
   'West Virginia, USA',
